@@ -1,5 +1,4 @@
 require File.join(File.dirname(__FILE__), 'test_helper')
-require 'pry'
 require 'twelve_hour_time'
 
 class String
